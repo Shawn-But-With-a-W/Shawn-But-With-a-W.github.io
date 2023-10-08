@@ -1,10 +1,10 @@
 ---
 layout: post
-title: creating this stite
+title: creating this site
 date: 2023-8-10 20:43:04
 description: (complaining) about the process of creating this site
-tags:
-categories:
+tags: placeholder-tag
+categories: rants
 giscus_comments: false
 related_posts: false
 ---
