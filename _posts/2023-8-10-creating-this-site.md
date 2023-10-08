@@ -26,3 +26,13 @@ I read through very long documentation and the Github guide on installing Jekyll
 And then I realised I could've just stolen someone else's template for Jekyll.
 
 After deleting the repository, creating a new one from the template and then carefully walking through the README (I have dyslexia if you can't tell already), I ran into a problem where the site would not deploy. The problem was made even worse by the command line producing errors when I try to host the site locally.
+
+So back to the drawing board again, and the repository was swiftly deleted and created once more. Being scarred by previous experiences I made very small commits and stared at the action tab as the site was deployed for every commit. I think the reason for the site not deploying was because I commented out some stuff which made it unhappy.
+
+Anyhow after many hours of making slight changes, pushing, deploying and checking the site, it seems to be functioning despite the amount of unnecessary bytes in the repository.
+
+# What Now?
+
+I'll probably display some projects and repos to this site, maybe use it to host my markdown notes if I ever figure that out.
+
+I've also become surprisingly familiar with command line git because of writing way too many commits for this site.
