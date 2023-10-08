@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "A very meaningful quote"
+subtitle:
 
 profile:
   align: right
