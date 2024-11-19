@@ -4,7 +4,7 @@ title: n-body simulation
 description: will add once marking is over
 img: assets/img/duck.jpg
 importance: 1
-category: school
+category: placeholder1
 related_publications:
 ---
 
